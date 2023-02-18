@@ -22,3 +22,5 @@ title: Goofy Ah Site
 ![](https://cdn.discordapp.com/attachments/1037778302234021920/1076593857900326992/images.png)\
 ![](https://cdn.discordapp.com/attachments/1037778302234021920/1076593822508798043/9k.png)\
 ![](https://cdn.discordapp.com/attachments/1037778302234021920/1076593795417780305/2Q.png)\
+
+#### Creator: zCurq
